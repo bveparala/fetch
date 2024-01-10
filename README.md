@@ -4,10 +4,10 @@ This Python script is designed to check the health of a set of HTTP endpoints sp
 
 ## Dependencies
 
-yaml: For parsing YAML configuration files.
-requests: For making HTTP requests.
-time: For introducing delays between test cycles.
-collections.defaultdict: For efficiently managing the results of health checks.
+1. yaml: For parsing YAML configuration files.
+2. requests: For making HTTP requests.
+3. time: For introducing delays between test cycles.
+4. collections.defaultdict: For efficiently managing the results of health checks.
 
 Install dependencies:
 ``` pip install requests ```
